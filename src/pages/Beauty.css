@@ -1,10 +1,10 @@
 .row img {
-    padding-top: 20px;
+    padding-top: 50px;
     width: 70%;
     height: fit-content;
     object-fit: cover;
   }
 
-  img .beauty2 {
-    height: 160px;
+  .beauty-container .short-image {
+    height: 635px !important;
   }

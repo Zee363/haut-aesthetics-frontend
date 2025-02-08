@@ -12,7 +12,7 @@ const Beauty = () => {
           <h3>Skin Health Is The Future</h3>
         </div>
         <div class="col-sm-6">
-          <img src="./beauty2.webp" alt="Ayanda" />
+          <img src="./beauty2.webp" alt="Ayanda" className="short-image img-fluid" />
           <h3>In My Skin With Skin Creamery</h3>
         </div>
         <div class="col-sm-6">

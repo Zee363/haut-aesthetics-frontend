@@ -1,0 +1,10 @@
+.row img {
+    padding-top: 20px;
+    width: 70%;
+    height: fit-content;
+    object-fit: cover;
+  }
+
+  img .beauty2 {
+    height: 160px;
+  }

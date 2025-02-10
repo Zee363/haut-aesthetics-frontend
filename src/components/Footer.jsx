@@ -4,7 +4,7 @@ import "../components/Footer.css";
 
 const Footer = () => {
   return (
-    <div className="app-container">
+    <div className="app-container container-fluid">
       <footer className="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
         <div className="col-md-4 d-flex justufy-content-center align-items-center">
           <a
@@ -13,7 +13,7 @@ const Footer = () => {
           >
             <h2>HAUT AESTHETICS</h2>
           </a>
-          <span className="mb-3 mb-md-0 text-body-secondary">
+          <span className="mb-3 mb-md-0 text-body-secondary footer-span">
             &copy; 2017 Haut Aesthetics
           </span>
         </div>

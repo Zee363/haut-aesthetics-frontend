@@ -1,5 +1,6 @@
 import React from "react";
-import "../pages/Lifestyle.css"
+import "../pages/Lifestyle.css";
+
 
 const Lifestyle = () => {
   return (

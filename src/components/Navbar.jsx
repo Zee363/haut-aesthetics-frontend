@@ -4,7 +4,7 @@ import "../components/Navbar.css";
 
 const Navbar = () => {
     return (
-      <div>
+      <div className="container-fluid">
         <nav className="navigation">
           <ul className="nav-menu">
             <li className="nav-item">

@@ -17,5 +17,21 @@
     text-decoration: none;
     margin: 0 35px;
   }
+
+  .signup-button,
+  .login-button {
+    margin-left: 15px;
+  }
   
+  .signup-button, .login-button {
+    padding: 4px 4px;
+    border: none;
+    background-color: #E7F0DC !important;
+    border-radius: 5px;
+  }
+  
+  button a {
+    text-decoration: none;
+    color: #41444B;
+  }
   

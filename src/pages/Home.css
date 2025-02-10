@@ -1,3 +1,26 @@
+.buttons-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; /* Center the buttons horizontally */
+    gap: 30px; /* Space between the buttons */
+}
+
+.signup-button,
+  .login-button {
+   width: 20%;
+   gap: 10px;
+  }
+  
+  .signup-button, .login-button {
+    padding: 4px 4px;
+    border: none;
+    background-color: #E7F0DC !important;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+ 
+
 .grid-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -29,8 +52,3 @@
     padding-bottom: 20px;
     margin-left: 1rem;
   }
-
-  .repeated-words {
-    white-space: nowrap; /* Prevents the words from wrapping */
-    font-size: 2rem;
-}

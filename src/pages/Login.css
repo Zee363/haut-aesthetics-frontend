@@ -1,0 +1,26 @@
+.login-container {
+    padding-bottom: 24px;
+    padding-top: 5px;
+    margin-top: 30px;
+    border-radius: 16px;
+    width: 70%;
+    background-color: #E7F0DC;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+form {
+   margin-left: 350px;
+   margin-right: 350px;
+}
+
+.last-buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center; 
+    gap: 30px; 
+}
